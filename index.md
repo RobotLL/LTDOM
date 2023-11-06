@@ -7,8 +7,8 @@ ___
 
 ### Extras
 
-Parts of hardware settings, instructions, and code will be published here: https://github.com/RobotLL/LTDOM
+Hardware settings, instructions, and code will be organized and published here: https://github.com/RobotLL/LTDOM
 
 ### Maintenance 
-For any technical issues, please contact: Chao Zhao (czhaobb@connect.ust.hk).
+For any technical issues, please contact Chao Zhao (czhaobb@connect.ust.hk).
   
