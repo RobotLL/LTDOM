@@ -7,7 +7,8 @@ ___
 
 ### Extras
 
-Hardware settings, instructions, and code will be organized and published here: https://github.com/RobotLL/LTDOM
+You can download the 3D model of our gripper here https://github.com/RobotLL/LTDOM
+Hardware settings, instructions, and code will also be organized and published here: https://github.com/RobotLL/LTDOM
 
 ### Maintenance 
 For any technical issues, please contact Chao Zhao (czhaobb@connect.ust.hk).
