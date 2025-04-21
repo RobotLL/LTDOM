@@ -25,6 +25,7 @@ This reel includes a behind-the-scenes clip where the spring roll pancake slips 
 
 ### 🧰 Extras
 
-- 📦 **Download the 3D model of our gripper:** [https://github.com/RobotLL/LTDOM](https://github.com/RobotLL/LTDOM)  
+- 📦 **Download the 3D model of our gripper:** [https://github.com/RobotLL/LTDOM](https://github.com/RobotLL/LTDOM)
+- 📄 Additional experiments (moved from the main paper): [C-EXTRA.pdf](https://github.com/RobotLL/LTDOM/blob/main/C-EXTRA.pdf)
 - 🛠️ **Hardware settings, instructions, and code will be organized and published here:**  
   [https://github.com/RobotLL/LTDOM](https://github.com/RobotLL/LTDOM)
