@@ -3,7 +3,7 @@
 ___
 ### Movie 1 - Our main movie
 
-<iframe width="840" height="420" src="https://www.youtube.com/embed/qmNGn5DNOWc?si=steffeYcvSMgycs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="840" height="420" src="https://www.youtube.com/embed/ZkQhlO6V6PA?si=pMFVisqbz3Kuhk4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Movie S1 - Additional experiments on garments and bag opening
 
@@ -12,6 +12,10 @@ ___
 ### Movie S2 - Failure cases
 
 <iframe width="840" height="420" src="https://www.youtube.com/embed/RhR9xNo_xu0?si=DdxWyF5l8Z3TzUKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Titbits
+
+<iframe width="840" height="420" src="https://www.youtube.com/embed/d1bJ8Y9aIuU?si=VjWdudzBZ7_rs3ff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Extras
 
